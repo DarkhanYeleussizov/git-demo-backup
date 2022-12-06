@@ -10,4 +10,6 @@ We're marching into destiny
 
 content to be saved
 
-first content for practice 2 
+first content for practice 2
+
+second content for commit practice 2 
